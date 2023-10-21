@@ -1,7 +1,7 @@
 # Introdução
 ### Instalação Automática:
 
--Abra uma janela do Terminal e cole o seguinte comando:
+- Abra uma janela do Terminal e cole o seguinte comando:
 ```sh
 bash -c "$(wget -q -O- https://github.com/LilithRainbows/HabboAirForLinux/raw/main/Install.sh)"
 ```
